@@ -1,3 +1,5 @@
+This is a bootstrap single page website based on node and express
+
 //update app.json and html text
 Steps to run this repo.
 Download the git repo into a folder on local machine.
